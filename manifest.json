@@ -1,0 +1,24 @@
+{
+  "name": "Aprende sin silencio",
+  "short_name": "Aprende",
+  "description": "Minijuegos educativos sobre violencia de género basados en glosario académico",
+  "start_url": "./hub_violencia_genero_fixed.html",
+  "display": "standalone",
+  "background_color": "#f0ebe3",
+  "theme_color": "#c43d52",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
